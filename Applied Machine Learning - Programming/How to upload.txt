@@ -1,0 +1,9 @@
+Test
+To upload / update everything in the folder:
+git add .
+git commit
+git push
+
+You can upload a specific file if you want, but you have to google it.
+You can add a comment to the "git commit" by writing:
+git commit -m "Your message"
